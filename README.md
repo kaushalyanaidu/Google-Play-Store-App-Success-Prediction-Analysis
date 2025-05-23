@@ -70,13 +70,13 @@ Regular Updates → Strongly correlate with retention
 Category Watch → Finance & Gaming need stricter compliance
 
 
-Tools & Technologies
+Tools & Technologies:
 Databricks (development environment),
 Python, Spark ML, Google Colab,
 Pandas, Seaborn, Matplotlib,
 Scikit-learn for ML modeling
 
-📁 Project Files
+Project Files:
 MLops_Report_FINAL.docx: Detailed report
 
 MLops_FINAL_ppt.pptx: Presentation deck
