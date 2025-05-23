@@ -40,7 +40,8 @@ Free apps get more installs but face higher churn due to ads.
 
 Paid apps see better retention but fewer downloads.
 
-Machine Learning Models
+Machine Learning Models:
+
 🔹 Logistic Regression
 Predicts app success with high accuracy (AUC ≈ 0.966)
 
@@ -58,7 +59,7 @@ Best number of clusters: 6
 
 Silhouette Score: 0.65
 
-Key Business Insights
+Key Business Insights:
 High Ratings (4.0+) → Crucial for long-term success
 
 Freemium Model → More effective than pay-to-download
